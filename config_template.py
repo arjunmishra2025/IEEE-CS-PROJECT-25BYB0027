@@ -1,5 +1,6 @@
-EMAIL_SENDER = "arjunmishraind18@gmail.com"
+EMAIL_SENDER = ""
 EMAIL_PASSWORD = ""
-EMAIL_RECEIVER = "sonalshukla27@gmail.com"
-REPORT_INTERVAL = 5
+EMAIL_RECEIVER = ""
+REPORT_INTERVAL = 300
+
 LOG_FILE = "logs.txt"
